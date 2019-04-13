@@ -1,1 +1,4 @@
-# Instructores:  Hola
+# Instructores:
+- Alex Vilchis
+- Fernando Pinedo
+
