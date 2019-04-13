@@ -1,3 +1,3 @@
 # Instructores:
 - Alex Vilchis
-- Fernando 
+- Fernando Pinedo
